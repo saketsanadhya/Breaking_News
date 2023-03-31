@@ -1,0 +1,123 @@
+{
+    "status": "ok",
+    "totalResults": 9,
+    "articles": [
+        {
+            "source": {
+                "id": "google-news-uk",
+                "name": "Google News (UK)"
+            },
+            "author": null,
+            "title": "Covid latest news: Nicola Sturgeon cancels big Hogmanay parties and bans sports fans from live events",
+            "description": "Nicola Sturgeon has announced that large-scale Hogmanay celebrations in Scotland will be cancelled this year as the country battles a surge in omicron cases.",
+            "url": "https://www.telegraph.co.uk/global-health/science-and-disease/covid-news-cases-christmas-restrictions-test-booster-vaccine/",
+            "urlToImage": "https://www.telegraph.co.uk/content/dam/global-health/2021/12/21/TELEMMGLPICT000280839380_trans_NvBQzQNjv4BqhaQcnQgX1lblZ3yiN-_RsGtwcD64DrXTS8kq6HUhDPg.jpeg?impolicy=logo-overlay",
+            "publishedAt": "2021-12-21T17:11:00+00:00",
+            "content": "Western Australias strict border controls have sparked an outcry after the policy kept grieving parents from returning home with their daughters ashes after she died by suicide, reports Giovanni Torr… [+1333 chars]"
+        },
+        {
+            "source": {
+                "id": "bild",
+                "name": "Bild"
+            },
+            "author": null,
+            "title": "Wegen Corona: „Ball des Sports“ von Februar auf Juli verlegt | Regional",
+            "description": "Verschiebung statt Absage! Der Ball des Sports der Deutschen Sporthilfe kann auch im Jahr 2022 nicht wie geplant am 5. Februar stattfinden.",
+            "url": "http://www.bild.de/regional/frankfurt/frankfurt-aktuell/wegen-corona-ball-des-sports-von-februar-auf-juli-verlegt-78608120.bild.html",
+            "urlToImage": "https://images.bild.de/61c1b5eb8f8b361a16c748bf/fa47211d9f08217b9e139bedced852b6-landscape/15/2?w=1280",
+            "publishedAt": "2021-12-21T17:06:30Z",
+            "content": "Verschiebung statt Absage!\r\nDer Ball des Sports der Deutschen Sporthilfe kann auch im Jahr 2022 nicht wie geplant am 5. Februar stattfinden. Nachdem der Ball zugunsten der deutschen Nachwuchs- und Sp… [+1206 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "ERICA HUNZINGER",
+            "title": " Water worries in West force sports teams to get creative",
+            "description": "DENVER (AP) — The Arizona Diamondbacks ripped out the grass at Chase Field ahead of the 2019 season, replacing it with synthetic grass. It was a business decision, but it also ended up being a water-conservation measure.",
+            "url": "https://apnews.com/8ec9eb3fafcd4e1ca3ea7b30ccc54bfa",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/4e9a82512f0c4ee08c3bb2fd8e7be031/3000.jpeg",
+            "publishedAt": "2021-12-21T16:14:03Z",
+            "content": "DENVER (AP) — The Arizona Diamondbacks ripped out the grass at Chase Field ahead of the 2019 season, replacing it with synthetic grass. It was a business decision, but it also ended up being a water-… [+7428 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news-au",
+                "name": "Google News (Australia)"
+            },
+            "author": null,
+            "title": "‘200,000 cases a day’: PM given Omicron warning - Herald Sun",
+            "description": "Subscribe to the Herald Sun to get unrestricted digital access, home paper delivery, Foxsports.com.au subscription,  Apps for iPad and Android and much more...",
+            "url": "https://dsf.newscorpaustralia.com/heraldsun/subscription/",
+            "urlToImage": null,
+            "publishedAt": "2021-12-21T16:06:49+00:00",
+            "content": "Subscribe to the Herald Sun to get unrestricted digital access, home paper delivery, Foxsports.com.au subscription,  Apps for iPad and Android and much more..."
+        },
+        {
+            "source": {
+                "id": "four-four-two",
+                "name": "FourFourTwo"
+            },
+            "author": null,
+            "title": "Scottish Government imposes 500-capacity limit on sport from Boxing Day",
+            "description": "Sports events in Scotland will be restricted to a maximum of 500 spectators for “up to three weeks”.",
+            "url": "https://www.fourfourtwo.com/news/scottish-government-imposes-500-capacity-limit-on-sport-from-boxing-day-1640099420000",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/qtZXLdBohVozkYivBRwS4V-1200-80.jpg",
+            "publishedAt": "2021-12-21T15:29:35Z",
+            "content": "Sports events in Scotland will be restricted to a maximum of 500 spectators for “up to three weeks”.\r\nFirst Minister Nicola Sturgeon delivered the update following a Cabinet meeting to discuss ways o… [+3952 chars]"
+        },
+        {
+            "source": {
+                "id": "four-four-two",
+                "name": "FourFourTwo"
+            },
+            "author": null,
+            "title": "Welsh spectator shut-out is a major blow, says Cardiff chief Mehmet Dalman",
+            "description": "Cardiff chief executive Mehmet Dalman has described all sports fixtures moving behind closed doors in Wales as a “major blow”.",
+            "url": "https://www.fourfourtwo.com/news/welsh-spectator-shut-out-is-a-major-blow-says-cardiff-chief-mehmet-dalman-1640084742000",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/Fo3rRaXsi8eifwTJacMKan-1200-80.jpg",
+            "publishedAt": "2021-12-21T11:05:42Z",
+            "content": "Cardiff chief executive Mehmet Dalman has described all sports fixtures moving behind closed doors in Wales as a “major blow”.\r\nAll sporting events in Wales will be held behind closed doors from Boxi… [+4282 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-sports",
+                "name": "Fox Sports"
+            },
+            "author": "FOX Sports",
+            "title": "COVID-19's impact on sports: Is this our new normal?",
+            "description": "COVID-19 is once again impacting the sports world, leaving the long-term picture unclear, Martin Rogers writes.",
+            "url": "http://www.foxsports.com/stories/nfl/covid-19s-impact-on-sports-is-this-our-new-normal",
+            "urlToImage": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2021/12/1408/814/815_Newsletter_1920x1080_StoryCard_COVID.jpg?ve=1&tl=1",
+            "publishedAt": "2021-12-20T22:00:26Z",
+            "content": "By Martin Rogers\r\nFOX Sports Columnist\r\nSports is about to go through some heavy change thats pretty clear by now and its going to be a confusing old time.\r\nGet ready for a new normal, or should that… [+4694 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-sports",
+                "name": "Fox Sports"
+            },
+            "author": "FOX Sports",
+            "title": "COVID-19 updates: NBA postpones several games amid team outbreaks",
+            "description": "Additional games have been postponed as teams deal with COVID-19 outbreaks continue across the sports world.",
+            "url": "http://www.foxsports.com/stories/nfl/covid-19-hits-several-nfl-nba-teams-across-the-united-states",
+            "urlToImage": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2021/12/1408/814/52afb298-12.14.21_COVID-issues-in-the-NFL-and-NBA_16x9.jpg?ve=1&tl=1",
+            "publishedAt": "2021-12-19T18:50:51Z",
+            "content": "Several sports leagues across the U.S. are dealing with COVID-19 outbreaks, with teams in the NFL and NBA hit particularly hard.\r\nAs franchises come to grips with their respective situations the prot… [+10382 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-times",
+                "name": "The Washington Times"
+            },
+            "author": "The Washington Times http://www.washingtontimes.com",
+            "title": "Latest Quizzes",
+            "description": "Take a break from the hard news of the day and enjoy a quiz on entertainment, sports, history and politics only from The Washington Times.",
+            "url": "https://www.washingtontimes.com/quiz/",
+            "urlToImage": null,
+            "publishedAt": "2021-02-10T03:52:37.2719772Z",
+            "content": "Featured Quizzes\r\nAttention all William Shakespeare experts. Pinpoint the prose's origin plucked from one of his many famous plays in this multiple-choice challenge.\r\n Shares \r\nName these legendary c… [+32652 chars]"
+        }
+    ]
+}
